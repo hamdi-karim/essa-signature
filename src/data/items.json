@@ -3,19 +3,19 @@
     "id": 1,
     "name": "White Harmony",
     "price": 10.99,
-    "imgUrl": "public/imgs/1.jpg"
+    "imgUrl": "/imgs/1.jpg"
   },
   {
     "id": 2,
     "name": "Black Harmony",
     "price": 10.99,
-    "imgUrl": "public/imgs/2.png"
+    "imgUrl": "/imgs/2.png"
   },
   {
     "id": 3,
     "name": "Wise Elegance",
     "price": 14.99,
-    "imgUrl": "public/imgs/3.jpg"
+    "imgUrl": "/imgs/3.jpg"
   },
   {
     "id": 4,
