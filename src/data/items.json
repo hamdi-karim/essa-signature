@@ -21,18 +21,18 @@
     "id": 4,
     "name": "Artistic Elegance",
     "price": 14.99,
-    "imgUrl": "/imgs/4.png"
+    "imgUrl": "imgs/4.png"
   },
   {
     "id": 5,
     "name": "Simplicity Illustrated",
     "price": 24.99,
-    "imgUrl": "/imgs/5.jpg"
+    "imgUrl": "imgs/5.jpg"
   },
   {
     "id": 6,
     "name": "Pure Essence",
     "price": 24.99,
-    "imgUrl": "public/imgs/6.jpg"
+    "imgUrl": "imgs/6.jpg"
   }
 ]
