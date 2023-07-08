@@ -3,31 +3,31 @@
     "id": 1,
     "name": "White Harmony",
     "price": 10.99,
-    "imgUrl": "/imgs/1.jpg"
+    "imgUrl": "imgs/1.jpg"
   },
   {
     "id": 2,
     "name": "Black Harmony",
     "price": 10.99,
-    "imgUrl": "/imgs/2.png"
+    "imgUrl": "imgs/2.png"
   },
   {
     "id": 3,
     "name": "Wise Elegance",
     "price": 14.99,
-    "imgUrl": "/imgs/3.jpg"
+    "imgUrl": "imgs/3.jpg"
   },
   {
     "id": 4,
     "name": "Artistic Elegance",
     "price": 14.99,
-    "imgUrl": "public/imgs/4.png"
+    "imgUrl": "/imgs/4.png"
   },
   {
     "id": 5,
     "name": "Simplicity Illustrated",
     "price": 24.99,
-    "imgUrl": "public/imgs/5.jpg"
+    "imgUrl": "/imgs/5.jpg"
   },
   {
     "id": 6,
